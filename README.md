@@ -10,7 +10,7 @@ The goal of this project is to conduct a comprehensive analysis of the hotel dom
 
 ***Project Highlights***
 
-📊 I discovered that Presidential rooms had the highest occupancy, while Standard rooms lagged behind. Delhi topped the occupancy charts, whereas Mumbai generated the highest revenue.
++ I discovered that Presidential rooms had the highest occupancy, while Standard rooms lagged behind. Delhi topped the occupancy charts, whereas Mumbai generated the highest revenue.
 
 + Interestingly, weekends outperformed weekdays in terms of occupancy—suggesting strong potential for weekend-specific offers.
 
@@ -21,3 +21,11 @@ The goal of this project is to conduct a comprehensive analysis of the hotel dom
 + Offer city-specific promotions (like discounts in Bangalore and targeted ads in Delhi).
 
 + Focus on premium offerings during weekends.
+
+***Skills Learned***
+
++ ***Python Programming***: Enhancing proficiency in Python for data analysis,cleaning ,transforamtion and visualization.
+
++ ***Data Viusualization***: Leveraged Matplotlib library for creating charts and bars.
+
++ ***Pandas Fundamentals***: creating various dataframes,group by functions,concate and merging,handling NA values,read csv files etc.
